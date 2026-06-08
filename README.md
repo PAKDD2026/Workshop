@@ -1,13 +1,14 @@
-Project Description
+**Project Description**
 
 This project contains the accepted papers from the workshops and doctoral consortium held in conjunction with PAKDD 2026, the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining. The official proceedings will be published by Springer as part of their prestigious Lecture Notes in Artificial Intelligence (LNAI) and Lecture Notes in Computer Science (LNCS) series.
 
-Book Title:
+**Book Title:**
 Trends and Applications in Knowledge Discovery and Data Mining
-Subtitle:
+
+**Subtitle:**
 *PAKDD 2026 Workshops and Doctoral Consortium: AI4DF, DMO-FinTech, RAFDA, AMI-PAKDD, EFMxDM and JEN-AI, Hong Kong, China, June 9–12, 2026, Proceedings*
 
-Included workshops/special sessions:
+**Included workshops/special sessions:**
 
 AI4DF (AI for Data Futures)
 

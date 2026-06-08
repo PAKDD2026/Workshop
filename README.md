@@ -10,17 +10,17 @@ Trends and Applications in Knowledge Discovery and Data Mining
 
 **Included workshops/special sessions:**
 
-AI4DF (AI for Data Futures)
+AI4DF (AI and Data Science for Digital Finance)
 
-DMO-FinTech (Data‑Driven Methods and Optimization for Financial Technology)
+DMO-FinTech (Decision Making and Optimization in Financial Technologies)
 
-RAFDA (Recent Advances in Foundation models for Data Analytics)
+RAFDA (Research and Applications of Foundation Models for Data Mining and Affective Computing)
 
-AMI-PAKDD (Advanced Machine Learning for Intelligent Systems)
+AMI-PAKDD (Autonomous Machine Intelligence: From Theory to Practice)
 
-EFMxDM (Explainable and Fair Models for Data Mining)
+EFMxDM (Resource-Efficient Foundation Models for Large-Scale Data Mining)
 
-JEN-AI (Joint Event on Next‑Generation AI)
+JEN-AI (Generative AI and Computational Journalism)
 
 Doctoral Consortium
 

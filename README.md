@@ -18,7 +18,7 @@ RAFDA (Research and Applications of Foundation Models for Data Mining and Affect
 
 AMI-PAKDD (Autonomous Machine Intelligence: From Theory to Practice)
 
-EFMxDM (Resource-Efficient Foundation Models for Large-Scale Data Mining)
+EFMxDM (Efficient Foundation Models for Large-Scale Data Mining)
 
 JEN-AI (Generative AI and Computational Journalism)
 
